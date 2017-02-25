@@ -1,7 +1,7 @@
 {
   "name": "stony-stream-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Inspired by Matt Wilson's colors in Paper Girls",
   "keywords": [
     "syntax",
